@@ -4,12 +4,12 @@ A todo app that actually feels good to use. Smooth spring animations, confetti o
 
 ## Features
 
-- **Spring animations** — tasks slide in/out with Framer Motion, filter tabs use a shared layout animation
-- **Confetti** — fires on every completed task
-- **Progress bar** — animated gradient bar tracking completion
-- **Filters** — all / active / done
-- **Dark / light mode** — dark by default, persisted with no flash on load
-- **localStorage** — no backend, no accounts, works offline
+- **Spring animations**: tasks slide in/out with Framer Motion, filter tabs use a shared layout animation
+- **Confetti**: fires on every completed task
+- **Progress bar**: animated gradient bar tracking completion
+- **Filters**: all / active / done
+- **Dark / light mode**: dark by default, persisted with no flash on load
+- **localStorage**: no backend, no accounts, works offline
 
 ## Stack
 
