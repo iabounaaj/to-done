@@ -1,6 +1,6 @@
 # to-done.
 
-A todo app that actually feels good to use. Smooth spring animations, confetti on completion, dark/light mode, and zero data sent anywhere — everything lives in localStorage.
+A todo app that actually feels good to use. Smooth spring animations, confetti on completion, dark/light mode, and zero data sent anywhere.
 
 ## Features
 
